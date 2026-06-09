@@ -1,5 +1,5 @@
 # Sistema-de-Analisis-de-Inventario-y-Ventas---Retail
-Proyecto de análisis de datos que incluye limpieza y preparación de datos en Python, carga automatica a PostgreSQL y un dashboard en Power BI.El proyecto simula un flujo de trabajo real: los datos crudos se procesan automáticamente con Python y quedan disponibles en un dashboard de Power BI actualizable.
+Proyecto de análisis de datos que incluye limpieza y preparación de datos en Python, carga automatica a PostgreSQL y un dashboard en Power BI. El proyecto simula un flujo de trabajo real: los datos crudos se procesan automáticamente con Python y quedan disponibles en un dashboard de Power BI actualizable.
 
 ## Herramientas utilizadas
  
