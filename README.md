@@ -1,4 +1,4 @@
-# Sistema-de-Analisis-de-Inventario-y-Ventas---Retail
+# Sistema-de-Analisis-de-Inventario-y-Ventas-Retail
 Proyecto de análisis de datos que incluye limpieza y preparación de datos en Python, carga automatica a PostgreSQL y un dashboard en Power BI. El proyecto simula un flujo de trabajo real: los datos crudos se procesan automáticamente con Python y quedan disponibles en un dashboard de Power BI actualizable.
 
 ## Herramientas utilizadas
@@ -13,7 +13,7 @@ Proyecto de análisis de datos que incluye limpieza y preparación de datos en P
  
 Dataset sintético de inventario retail con 74.500 registros originales, con 5 tiendas, 20 productos, 5 categorías, 4 regiones y otras variables como ventas, inventario, descuentos, clima y estación.
 
-## Automatización
+## Pipeline ETL Automatizado
 
 ### **Limpieza**
 
